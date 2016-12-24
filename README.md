@@ -1,0 +1,1 @@
+#My personal POC based on the "architecting cordova app" tutorial
